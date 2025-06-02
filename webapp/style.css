@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; margin: 2rem; }
+section { margin-bottom: 2rem; }
+button { margin-left: 1rem; }
+#imgPreview img { max-width: 200px; margin: 0.5rem; }
